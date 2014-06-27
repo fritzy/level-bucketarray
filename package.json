@@ -1,0 +1,24 @@
+{
+  "name": "level-bucketarray",
+  "version": "1.0.0",
+  "description": "Handle arrays for opts.bucket in level-bucket commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/fritzy/level-bucketarray.git"
+  },
+  "keywords": [
+    "level",
+    "bucket",
+    "database"
+  ],
+  "author": "Nathan Fritz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fritzy/level-bucketarray/issues"
+  },
+  "homepage": "https://github.com/fritzy/level-bucketarray"
+}
